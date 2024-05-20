@@ -1,6 +1,0 @@
-@CervejaAPI_HostAddress = http://localhost:5143
-
-GET {{CervejaAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
